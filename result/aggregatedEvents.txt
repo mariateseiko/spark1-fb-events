@@ -1,0 +1,303 @@
+FBEventsAgg{keyword='decorations', city='Ashton-under-Lyne', date='07/10/2016', totalAttending=8, topTen=[Christmas, 1, and, 1, decorations, 1, gifts, 1]}
+FBEventsAgg{keyword='antenna', city='Albuquerque', date='08/10/2016', totalAttending=118, topTen=[Soohan, 1, An-ten-nae, 1, @, 1, Bar, 1, in, 1, &, 1, Albuquerque,, 1, An-Ten-Nae, 1, Sister, 1, NM, 1]}
+FBEventsAgg{keyword='paint', city='Lauderhill', date='08/10/2016', totalAttending=255, topTen=[Jouvert, 2, Red, 1, (Paint, 1, Carnival, 1, W, 1, GenX, 1, Band, 1, Antz, 1, Biggest, 1, -, 1]}
+FBEventsAgg{keyword='protection', city='unknown', date='08/10/2016', totalAttending=4, topTen=[de, 1, Danger, 1, en, 1, l'Enfance, 1, Colloque, 1, Protection, 1]}
+FBEventsAgg{keyword='usb', city='unknown', date='07/10/2016', totalAttending=7, topTen=[Party, 1, Usborne, 1, Book, 1, Launch, 1]}
+FBEventsAgg{keyword='car', city='Alfenas', date='08/10/2016', totalAttending=6966, topTen=[Festival, 1, Carnalfenas, 1, 2016, 1, Weekend, 1]}
+FBEventsAgg{keyword='wireless', city='Moline', date='08/10/2016', totalAttending=88, topTen=[Center, 2, IL, 2, in, 2, Moline,, 2, Megadeth, 2, Wireless, 1, @, 1, at, 1, iWireless, 1, I, 1]}
+FBEventsAgg{keyword='d2', city='Pelotas', date='08/10/2016', totalAttending=3958, topTen=[em, 2, Marcelo, 2, Pelotas, 2, D2, 2]}
+FBEventsAgg{keyword='v4', city='unknown', date='08/10/2016', totalAttending=1129, topTen=[V, 2, Suwerenności, 1, Super, 1, Wolności, 1, i, 1, Smashed, 1, Bros, 1, Marsz, 1]}
+FBEventsAgg{keyword='water', city='Fremont', date='07/10/2016', totalAttending=1789, topTen=[and, 1, Grass, 1, Watercross, 1, NHSA, 1, Drags, 1]}
+FBEventsAgg{keyword='truck', city='unknown', date='08/10/2016', totalAttending=3528, topTen=[Omaha, 1, 1st, 1, Annual, 1, Rodeo, 1, Truck, 1, Food, 1]}
+FBEventsAgg{keyword='wireless', city='Doncaster', date='08/10/2016', totalAttending=20, topTen=[Wireless, 1, New, 1, Weird, 1, Show, 1, Planet, 1]}
+FBEventsAgg{keyword='interface', city='West Des Moines', date='08/10/2016', totalAttending=16, topTen=[The, 1, Art, 1, Ryan, 1, of, 1, Interfaces:, 1, D., 1, Reception, 1, -Show, 1, Allen, 1, Grim, 1]}
+FBEventsAgg{keyword='avenue', city='Los Angeles', date='08/10/2016', totalAttending=49, topTen=[The, 1, A, 1, Coast, 1, BAD, 1, West, 1, Premiere, 1, DREAM, 1, ELM, 1, UNauthorized!, 1, on, 1]}
+FBEventsAgg{keyword='alarms', city='unknown', date='07/10/2016', totalAttending=73, topTen=[Alarmsignal, 1, Wien), 1, (A, 1, -, 1, Arena, 1, /, 1]}
+FBEventsAgg{keyword='index', city='Nyíregyháza', date='07/10/2016', totalAttending=150, topTen=[*, 2, Szalagavató, 1, Index, 1, VPG, 1, Café, 1, Buli, 1, 10.07., 1]}
+FBEventsAgg{keyword='lcd', city='Lancaster', date='08/10/2016', totalAttending=23, topTen=[LCDC, 1, Banquet, 1, Fall, 1]}
+FBEventsAgg{keyword='quality', city='Córdoba', date='08/10/2016', totalAttending=1, topTen=[-, 2, Fest, 1, Hasta, 1, Muelas, 1, Viernes, 1, Quality, 1, 7, 1, octubre, 1, las, 1]}
+FBEventsAgg{keyword='rear', city='unknown', date='08/10/2016', totalAttending=10, topTen=[Aliança, 1, 13, 1, Aniversário, 1, Igreja, 1]}
+FBEventsAgg{keyword='household', city='Cape Town', date='07/10/2016', totalAttending=63, topTen=[Household, 1]}
+FBEventsAgg{keyword='power', city='Herford', date='07/10/2016', totalAttending=457, topTen=[K., 1, powered, 1, KMG, 1, Kick, 1, by, 1, Abi, 1, It, 1, -, 1]}
+FBEventsAgg{keyword='pair', city='unknown', date='08/10/2016', totalAttending=414, topTen=[Aquí, 1, Rentrée, 1, Ya, 1, POPair, 1, -, 1, Estamos, 1]}
+FBEventsAgg{keyword='hd', city='Heidelberg', date='07/10/2016', totalAttending=296, topTen=[-, 3, PARTY, 1, NEON, 1, E, 1, DJ, 1, &, 1, CHILLY, 1, 07.OKTOBER, 1, YT, 1, FR, 1]}
+FBEventsAgg{keyword='voltage', city='Maidenhead', date='07/10/2016', totalAttending=143, topTen=[Deep), 1, Down, 1, Low, 1, Voltage, 1, Presents, 1, Soundz, 1, Spectrum, 1, (SDC/, 1, Playaz/, 1]}
+FBEventsAgg{keyword='index', city='unknown', date='08/10/2016', totalAttending=75, topTen=[II, 1, surf, 1, Festival, 1, de, 1, krown, 1, index, 1]}
+FBEventsAgg{keyword='view', city='unknown', date='07/10/2016', totalAttending=223, topTen=[View, 2, //, 1, A, 1, Groningen, 1, Feel, 1, For, 1, "Classy, 1, 7/10, 1, Friday", 1, at, 1]}
+FBEventsAgg{keyword='index', city='Prague', date='07/10/2016', totalAttending=72, topTen=[Locos, 1, Index–Agency, 1, Hector, 1, MEX), 1, presents:, 1, (Vatos, 1, /, 1]}
+FBEventsAgg{keyword='sd', city='Maidenhead', date='07/10/2016', totalAttending=143, topTen=[Deep), 1, Down, 1, Low, 1, Voltage, 1, Presents, 1, Soundz, 1, Spectrum, 1, (SDC/, 1, Playaz/, 1]}
+FBEventsAgg{keyword='voltage', city='Philadelphia', date='08/10/2016', totalAttending=177, topTen=[The, 1, Sessions:, 1, Thelem, 1, at, 1, &, 1, w/, 1, Swamp, 1, Voltage,, 1, Sound, 1, F1, 1]}
+FBEventsAgg{keyword='arrivals', city='London', date='07/10/2016', totalAttending=29, topTen=[Tamer, 1, Youssef,, 1, Arrivals, 1, Scarlett, 1, Retrospekt, 1, &, 1, London, 1, w/, 1, House,, 1]}
+FBEventsAgg{keyword='sleeve', city='Brighton', date='07/10/2016', totalAttending=39, topTen=[//, 2, Deadbeat, 1, Lunar, 1, Disco, 1, Blue, 1, Egyptian, 1, #6:, 1, Quiet, 1, Sleeve, 1, Wizard, 1]}
+FBEventsAgg{keyword='accessori', city='Yangon', date='08/10/2016', totalAttending=365, topTen=[The, 1, Made, 1, Accessories, 1, Art, 1, Textile, 1, In, 1, &, 1, Of, 1, Myanmar-3,, 1, Exhibition, 1]}
+FBEventsAgg{keyword='gps', city='unknown', date='08/10/2016', totalAttending=65, topTen=[at, 1, Night, 1, Latin, 1, Dance, 1, GPSCY, 1]}
+FBEventsAgg{keyword='remote', city='unknown', date='07/10/2016', totalAttending=304, topTen=[Heart, 1, Op, 1, Hartactivatie, 1, Gratis/Free:, 1, Activation, 1, Afstand/Remote, 1]}
+FBEventsAgg{keyword='sleeve', city='Vejle', date='07/10/2016', totalAttending=29, topTen=[Rolled, 1, Sleeves, 1, @Værket, 1, Up, 1]}
+FBEventsAgg{keyword='cable', city='Loveland', date='08/10/2016', totalAttending=57, topTen=[the, 1, Cable, 1, Been, 1, and, 1, Thinking, 1, Jeff, 1, Larry, 1, Guy's, 1, Tour", 1, "We've, 1]}
+FBEventsAgg{keyword='diagonal', city='unknown', date='08/10/2016', totalAttending=261, topTen=[//, 1, PICO, 1, -Samhain-, 1, Fiesta, 1, Teens, 1, Tropicana, 1, DEL, 1, DULCE, 1, Halloween, 1, Bruselass, 1]}
+FBEventsAgg{keyword='paint', city='São Paulo', date='08/10/2016', totalAttending=219, topTen=[HOOJEE,, 1, Crew, 1, Paintball, 1, (, 1, É, 1, ), 1, Jd, 1, Apurá, 1, Sampa, 1]}
+FBEventsAgg{keyword='current', city='Antwerp', date='07/10/2016', totalAttending=126, topTen=[The, 1, Weather, 1, Against, 1, Beach, 1, Current, 1, vs, 1]}
+FBEventsAgg{keyword='20pin', city='Kuala Lumpur', date='08/10/2016', totalAttending=74, topTen=[Be, 1, Pink, 1, Ohsem,, 1, 2.0, 1, Wear, 1]}
+FBEventsAgg{keyword='hr', city='Itaquaquecetuba', date='08/10/2016', totalAttending=673, topTen=[, 5, Pow, 2, Tey, 2, 23Hrs, 1, Dede, 1, Às, 1, Mc, 1, #HOJE, 1, Ela, 1]}
+FBEventsAgg{keyword='industrial', city='Los Angeles', date='08/10/2016', totalAttending=351, topTen=[•, 6, ██, 2, Aggrotech, 1, Industrial, 1, MALEDICTION, 1, █, 1, Angeles, 1, 10/7,, 1, SOCIETY, 1, Rooms, 1]}
+FBEventsAgg{keyword='h08', city='Sha Tin', date='08/10/2016', totalAttending=0, topTen=[氣功跑步基礎課程, 1, 1008, 1, ChiRunning, 1, Essentials, 1, Workshop, 1]}
+FBEventsAgg{keyword='view', city='Sydney', date='08/10/2016', totalAttending=100, topTen=[♕, 2, BOOTY, 1, 15mil, 1, views!, 1, CALL, 1, BAE, 1, Zhu, 1, &, 1, ft, 1, Girls!, 1]}
+FBEventsAgg{keyword='passat', city='San Martino Siccomario', date='07/10/2016', totalAttending=23, topTen=[passato, 1, Mostra, 1, "Il, 1, futuro", 1, del, 1, fotografica, 1]}
+FBEventsAgg{keyword='alarm', city='Preston', date='08/10/2016', totalAttending=168, topTen=[The, 1, Hifi, 1, System,, 1, Alarm,Operation, 1, Sound, 1, WizardSS, 1, -Ring, 1, Mungo's, 1]}
+FBEventsAgg{keyword='avenue', city='Netley', date='08/10/2016', totalAttending=473, topTen=[Festival, 1, Pumpkin, 1, and, 1, Avenue, 1, Scarecrow, 1]}
+FBEventsAgg{keyword='cell', city='Paarl', date='07/10/2016', totalAttending=49, topTen=[C, 1, at, 1, Live, 1, Nasty, 1, Cellars, 1]}
+FBEventsAgg{keyword='ecu', city='Macas', date='07/10/2016', totalAttending=71, topTen=[De, 1, Ecuador, 1, III, 1, en, 1, Encuentro, 1, Experiencias,, 1, -, 1, Away, 1, Macas/2016, 1, Sueños, 1]}
+FBEventsAgg{keyword='monitor', city='Córdoba', date='07/10/2016', totalAttending=17, topTen=[Enfermeria, 1, Para, 1, Taller, 1, Hemodinamico, 1, Monitoreo, 1]}
+FBEventsAgg{keyword='back', city='unknown', date='08/10/2016', totalAttending=575, topTen=[●, 2, Ottobre, 1, Dashdot, 1, &, 1, Dj, 1, Ruben, 1, 2, 1, School, 1, Party, 1, back,, 1]}
+FBEventsAgg{keyword='battery', city='Providence', date='08/10/2016', totalAttending=43, topTen=[/, 3, The, 1, Teazer, 1, at, 1, Battery, 1, Electric, 1, Dusk, 1, Superlimit, 1, WGL, 1]}
+FBEventsAgg{keyword='input', city='Nantes', date='08/10/2016', totalAttending=268, topTen=[Input, 1, Years, 1, Freerotation, 1, 8, 1, x, 1, Selector, 1]}
+FBEventsAgg{keyword='lights', city='Gyöngyös', date='07/10/2016', totalAttending=218, topTen=[The, 1, Space, 1, Hit, 1, #, 1, Lights, 1, Gyöngyös, 1, OFF, 1, /, 1]}
+FBEventsAgg{keyword='definition', city='Mountain View', date='08/10/2016', totalAttending=7, topTen=[by, 1, Fashion, 1, Definition, 1, Cool, 1, Show, 1]}
+FBEventsAgg{keyword='silver', city='Silverdale', date='08/10/2016', totalAttending=418, topTen=[The, 1, Coast, 1, Collective, 1, Markets, 1, -, 1, Silverdale, 1]}
+FBEventsAgg{keyword='1080p', city='Nelson', date='08/10/2016', totalAttending=47, topTen=[1080, 1, Nelson, 1, Protest, 1, National, 1, -, 1]}
+FBEventsAgg{keyword='available', city='Festus', date='08/10/2016', totalAttending=1, topTen=[Drawing, 1, Oct, 1, at, 1, Car, 1, 15th!, 1, available, 1, Homecoming, 1, Tickets, 1, is, 1, Raffle, 1]}
+FBEventsAgg{keyword='exhaust', city='Tampa', date='08/10/2016', totalAttending=326, topTen=[Exhaust, 1, Competition, 1, October, 1, Car, 1, Club, 1, USF, 1, Meet:, 1]}
+FBEventsAgg{keyword='5c', city='São Paulo', date='08/10/2016', totalAttending=533, topTen=[Bass, 1, Junior, 1, C, 1, 5, 1, Love, 1, +, 1, GABE, 1, anos, 1, -, 1, We, 1]}
+FBEventsAgg{keyword='cassette', city='Malmö', date='08/10/2016', totalAttending=120, topTen=[Cassette, 2, Store, 2, Day, 2, //, 1, Kollektivet, 1, Rundgång, 1, 2016, 1, Opening, 1, Party!, 1, -, 1]}
+FBEventsAgg{keyword='h4', city='unknown', date='08/10/2016', totalAttending=3728, topTen=[Chulo, 1, H, 1, Sin, 1, -, 1, Massivo, 1]}
+FBEventsAgg{keyword='card', city='unknown', date='07/10/2016', totalAttending=86, topTen=[Card-, 1, 2016, 1, Invitation, 1, Pooja, 1, Durga, 1]}
+FBEventsAgg{keyword='10m', city='Contagem', date='08/10/2016', totalAttending=137, topTen=[★, 2, com, 1, Sexta, 1, as, 1, e, 1, Malandramente, 1, 07.10, 1, 22h, 1, Nandinho, 1, Nego, 1]}
+FBEventsAgg{keyword='gr', city='unknown', date='08/10/2016', totalAttending=2647, topTen=[::, 3, CLUB, 2, e, 1, &, 1, Gustavo, 1, Mota, 1, mais, 1, Delight, 1, #SOB, 1, LOW, 1]}
+FBEventsAgg{keyword='inch', city='Nashville', date='08/10/2016', totalAttending=21, topTen=[The, 1, Jiggawatts, 1, Party, 1, &, 1, 7-Inch, 1, AJ, 1, Record, 1, Release, 1]}
+FBEventsAgg{keyword='exo', city='Houten', date='07/10/2016', totalAttending=74, topTen=[Kizomba, 1, &, 1, Exotica, 1, Bachata, 1]}
+FBEventsAgg{keyword='remote', city='Pottsville', date='08/10/2016', totalAttending=6, topTen=[, 1, THE, 1, PARTY, 1, I, 1, PLUG, 1, AM, 1]}
+FBEventsAgg{keyword='vehicle', city='San Luis Río Colorado', date='08/10/2016', totalAttending=51, topTen=[Vehicle, 1, Registration, 1]}
+FBEventsAgg{keyword='box', city='unknown', date='07/10/2016', totalAttending=62, topTen=[de, 2, II, 1, San, 1, Concello, 1, Boxeo, 1, 2016, 1, Lugo, 1, Torneo, 1, Froilán, 1]}
+FBEventsAgg{keyword='5c', city='unknown', date='07/10/2016', totalAttending=0, topTen=[San, 1, Piero, 1, C5, 1, Restena, 1, Real, 1, vs, 1]}
+FBEventsAgg{keyword='sale', city='Rancho Cordova', date='08/10/2016', totalAttending=659, topTen=[-, 2, Sale, 1, Dusty, 1, Aweminus,, 1, UNITY, 1, DallasK,, 1, Bits, 1, Definitive,, 1, On, 1, NOW!, 1]}
+FBEventsAgg{keyword='water', city='Mays Landing', date='08/10/2016', totalAttending=135, topTen=[the, 1, HELLEPHANT, 1, 7-9, 1, at, 1, watering, 1, hole), 1, oktoberfest/Halloween, 1, festival, 1, (oct, 1]}
+FBEventsAgg{keyword='quality', city='Port Macquarie', date='08/10/2016', totalAttending=44, topTen=[Ball, 1, Quality, 1, Giggle, 1, Camp, 1]}
+FBEventsAgg{keyword='input', city='Copenhagen', date='07/10/2016', totalAttending=28, topTen=[Spin, 1, &, 1, fagligt, 1, Fredagsbar, 1, input., 1, -, 1, med, 1, Bobler, 1, lidt, 1]}
+FBEventsAgg{keyword='signal', city='Villeurbanne', date='07/10/2016', totalAttending=35, topTen=[The, 1, Du, 1, Signal, 1, 8, 1, L'ombre, 1, +, 1, Wow, 1]}
+FBEventsAgg{keyword='signal', city='Nyborg', date='07/10/2016', totalAttending=232, topTen=[//, 2, 16+, 1, Signalfest, 1, Klub, 1, Krazy, 1]}
+FBEventsAgg{keyword='marine', city='Wilmington', date='08/10/2016', totalAttending=89, topTen=[and, 1, 2/6, 1, March, 1, Beef, 1, Marines, 1, Memorial, 1, Beer, 1]}
+FBEventsAgg{keyword='current', city='San Francisco', date='08/10/2016', totalAttending=69, topTen=[Annual, 1, Currents:, 1, Benefit, 1, &, 1, Tasting, 1, Brewing, 1, 6th, 1, Beer, 1, Food, 1]}
+FBEventsAgg{keyword='led', city='Goiânia', date='08/10/2016', totalAttending=40, topTen=[-, 2, Zeppelin, 1, SEXTA, 1, !, 1, na, 1, Taberna, 1, (Celebration, 1, DF), 1, LED, 1, Band, 1]}
+FBEventsAgg{keyword='avenue', city='Springfield', date='08/10/2016', totalAttending=275, topTen=[October, 1, Party, 1, Friday, 1, Fountain, 1, Avenue, 1, Block, 1, First, 1]}
+FBEventsAgg{keyword='sensor', city='Zákupy', date='07/10/2016', totalAttending=9, topTen=[-, 2, smyslů, 1, a, 1, s, 1, Retreat, 1, Tanmayou, 1, Anahatou, 1, Probuzení, 1, Awakening), 1, Zrušeno, 1]}
+FBEventsAgg{keyword='two', city='Berkeley', date='08/10/2016', totalAttending=913, topTen=[at, 2, The, 1, Lumineers, 1, Theatre, 1, Berkeley, 1, Nights!, 1, Greek, 1, -, 1, Two, 1, UC, 1]}
+FBEventsAgg{keyword='total', city='Guarulhos', date='08/10/2016', totalAttending=584, topTen=[•, 3, ★, 2, TOTAL, 1, , 1, A, 1, Festa, 1, Edition, 1, Open, 1, Bar, 1, Sexta, 1]}
+FBEventsAgg{keyword='1080p', city='Reefton', date='08/10/2016', totalAttending=13, topTen=[1080, 1, Protest, 1, National, 1, Ban, 1]}
+FBEventsAgg{keyword='cable', city='unknown', date='08/10/2016', totalAttending=26, topTen=[Cable, 1, Half, 1, and, 1, Marathon, 1, 10K, 1, Valentia, 1, Island, 1]}
+FBEventsAgg{keyword='alarms', city='Vienna', date='07/10/2016', totalAttending=95, topTen=[Wien, 1, Notgemeinschaft, 1, at, 1, Pan,, 1, Peter, 1, Arena, 1, Alarmsignal,, 1, Missstand, 1]}
+FBEventsAgg{keyword='vision', city='Lier', date='07/10/2016', totalAttending=245, topTen=[Vision, 1]}
+FBEventsAgg{keyword='kit', city='Chandigarh', date='08/10/2016', totalAttending=815, topTen=[Feria, 1, La, 1, Bazaar, 1, Kitsch, 1]}
+FBEventsAgg{keyword='voltage', city='Copenhagen', date='07/10/2016', totalAttending=70, topTen=[★, 3, [DK], 2, High, 1, Now, 1, Voltage, 1, Me, 1, Region, 1, Zoo, 1, Outer, 1, Fri, 1]}
+FBEventsAgg{keyword='v2', city='Nairobi', date='08/10/2016', totalAttending=58, topTen=[Closet, 1, Budget, 1, V2, 1]}
+FBEventsAgg{keyword='sleeve', city='Hackney', date='08/10/2016', totalAttending=200, topTen=[The, 1, set), 1, Moth, 1, Return, 1, (4hr, 1, DJ, 1, Beyond, 1, Wizards, 1, Sleeve, 1, to, 1]}
+FBEventsAgg{keyword='d2', city='Nantou', date='08/10/2016', totalAttending=376, topTen=[Festival, 1, 2016無限自由音樂藝術節, 1, Unlimited, 1, Freedom, 1]}
+FBEventsAgg{keyword='lcd', city='Austin', date='08/10/2016', totalAttending=21, topTen=[@, 1, Limits, 1, Austin,, 1, TX, 1, in, 1, Austin, 1, City, 1, LCD, 1, Soundsystem, 1]}
+FBEventsAgg{keyword='vision', city='unknown', date='08/10/2016', totalAttending=643, topTen=[1, 1, Night, 1, 33hz, 1, Vision, 1, Dubdisko, 1, 07.10, 1, Ano', 1, 'Especial, 1]}
+FBEventsAgg{keyword='definition', city='Athens', date='08/10/2016', totalAttending=36, topTen=[High, 2, Definitions, 2, Casa, 2, w/The, 2, @, 1, Moons, 1, in, 1, &, 1, Athens,, 1, Nueva, 1]}
+FBEventsAgg{keyword='kit', city='New Delhi', date='08/10/2016', totalAttending=172, topTen=[at, 1, KittySu, 1, Kittens, 1, Live, 1, Resident, 1]}
+FBEventsAgg{keyword='current', city='unknown', date='07/10/2016', totalAttending=46, topTen=[The, 1, New, 1, Current, 1]}
+FBEventsAgg{keyword='kit', city='Helsinki', date='07/10/2016', totalAttending=688, topTen=[&, 2, Clinic, 1, with, 1, Showcase, 1, Tube, 1, Kittball, 1, Paji, 1, PACO, 1, Berger,, 1, presents, 1]}
+FBEventsAgg{keyword='truck', city='Julian', date='07/10/2016', totalAttending=3244, topTen=[2016, 1, Jam, 1, Official, 1, Rudy's, 1, Truck, 1, Page, 1]}
+FBEventsAgg{keyword='10m', city='Jackson Heights', date='08/10/2016', totalAttending=93, topTen=[Apertura, 1, Feria, 1, Libro, 1, 10ma, 1, en, 1, del, 1, NY, 1, Hispana/Latina, 1]}
+FBEventsAgg{keyword='lens', city='Ypsilanti', date='08/10/2016', totalAttending=22, topTen=[Photography, 1, The, 1, Exhibit, 1, for, 1, Page, 1, Lens, 1, Through, 1]}
+FBEventsAgg{keyword='cup', city='Zabok', date='07/10/2016', totalAttending=63, topTen=[Balkan, 1, Cup, 1, Croatia, 1]}
+FBEventsAgg{keyword='publicity', city='unknown', date='08/10/2016', totalAttending=0, topTen=[Masterclass, 1, Writers, 1, Publicity, 1, WriteFest, 1, for, 1, -, 1, Saturday, 1]}
+FBEventsAgg{keyword='speed', city='La Crosse', date='08/10/2016', totalAttending=3694, topTen=[-, 2, La, 2, REO, 2, Speedwagon, 2, Center, 1, Def, 1, Crosse, 1, Leppard, 1, Concert, 1, with, 1]}
+FBEventsAgg{keyword='installation', city='Munich', date='07/10/2016', totalAttending=24, topTen=[De/fence., 1, Installation, 1, von, 1, performative, 1, ausbau.sechs, 1, Eine, 1]}
+FBEventsAgg{keyword='angle', city='unknown', date='07/10/2016', totalAttending=15, topTen=[Night, 1, Fashion, 1, Out, 1]}
+FBEventsAgg{keyword='accessories', city='Yangon', date='08/10/2016', totalAttending=365, topTen=[The, 1, Made, 1, Accessories, 1, Art, 1, Textile, 1, In, 1, &, 1, Of, 1, Myanmar-3,, 1, Exhibition, 1]}
+FBEventsAgg{keyword='fashion', city='Buffalo', date='08/10/2016', totalAttending=1288, topTen=[2016, 1, Fashion, 1, Show, 1, Buffalo, 1]}
+FBEventsAgg{keyword='full', city='unknown', date='08/10/2016', totalAttending=396, topTen=[Full, 3, -, 2, Viernes, 2, !!, 1, Guerra, 1, Moon, 1, en, 1, del, 1, Rgton, 1, Plata, 1]}
+FBEventsAgg{keyword='view', city='Nanterre', date='07/10/2016', totalAttending=121, topTen=[à, 1, voir", 1, "Data, 1, Opening, 1, Vernissage, 1, "Données, 1, exposition, 1, view", 1, /, 1, on, 1]}
+FBEventsAgg{keyword='interface', city='Oakland', date='08/10/2016', totalAttending=33, topTen=[the, 1, afternoon, 1, At, 1, Carolyn, 1, in, 1, Martin, 1, Jean, 1, |, 1, five, 1]}
+FBEventsAgg{keyword='sleeve', city='Auckland', date='08/10/2016', totalAttending=30, topTen=[Sleeves, 1, &, 1, Album, 1, Show, 1, Tricks, 1, Release, 1]}
+FBEventsAgg{keyword='mount', city='unknown', date='07/10/2016', totalAttending=578, topTen=[Aoraki, 1, Mount, 1, Cook, 1, Marathon, 1]}
+FBEventsAgg{keyword='diagnostic', city='León', date='07/10/2016', totalAttending=4, topTen=[Master, 1, Training, 1, Diagnostico, 1, en, 1, Curso, 1]}
+FBEventsAgg{keyword='publicity', city='New York', date='08/10/2016', totalAttending=19, topTen=[Book, 1, Assassin, 1, of, 1, for, 1, Youth, 1, Chasin's, 1, Alexandra, 1, Launch, 1]}
+FBEventsAgg{keyword='device', city='unknown', date='07/10/2016', totalAttending=331, topTen=[/, 3, Priest, 1, in, 1, Koraptor, 1, &, 1, Device, 1, War, 1, with:, 1, Natvre's, 1, Athens, 1]}
+FBEventsAgg{keyword='lens', city='Boston', date='08/10/2016', totalAttending=54, topTen=[at, 1, MELD, 1, Gallery, 1, Lens, 1]}
+FBEventsAgg{keyword='warning', city='Milford', date='08/10/2016', totalAttending=21, topTen=[The, 1, "T", 1, Warning, 1, At, 1, Signs, 1, Back, 1]}
+FBEventsAgg{keyword='avenue', city='Macaé', date='08/10/2016', totalAttending=49, topTen=[Avenue, 1, Kids, 1, Fun, 1]}
+FBEventsAgg{keyword='version', city='São Paulo', date='08/10/2016', totalAttending=851, topTen=[Made, 1, apresenta:, 1, in, 1, Version, 1, Israel, 1, ., 1, DM7, 1, Psychedelic, 1]}
+FBEventsAgg{keyword='audi', city='Bedford', date='08/10/2016', totalAttending=745, topTen=[|, 5, Motion, 1, Killaz, 1, Return, 1, Marky, 1, &, 1, Hybrid, 1, Minds, 1, More, 1, Bedford', 1]}
+FBEventsAgg{keyword='remote', city='Disney', date='07/10/2016', totalAttending=130, topTen=[Crawl-A-Palooza, 1, #10, 1, Championships, 1, at, 1, Disney, 1, Decade, 1]}
+FBEventsAgg{keyword='player', city='South Sioux City', date='08/10/2016', totalAttending=100, topTen=[New, 1, Tony, 1, Wedding, 1, Tina's, 1, Stage, 1, n', 1, Present:, 1, Players, 1]}
+FBEventsAgg{keyword='tool', city='Holland', date='08/10/2016', totalAttending=63, topTen=[the, 1, Against, 1, Deux-Holland, 1, Part, 1, Theatre, 1, Rage, 1, Tool, 1, Park, 1]}
+FBEventsAgg{keyword='3a', city='unknown', date='08/10/2016', totalAttending=271, topTen=[A, 1, Lo, 1, Antaño, 1, Vol.3♡, 1]}
+FBEventsAgg{keyword='europe', city='Cannes', date='08/10/2016', totalAttending=225, topTen=[★★, 2, Oct, 1, Addict, 1, Cannes, 1, Ven., 1, 7, 1, Latin, 1, Les, 1, Marches, 1, European, 1]}
+FBEventsAgg{keyword='lighter', city='Düsseldorf', date='08/10/2016', totalAttending=40, topTen=[Up!, 1, Lighters, 1]}
+FBEventsAgg{keyword='protection', city='Noida', date='08/10/2016', totalAttending=30, topTen=[Seminar, 1, WildLife, 1, Laws, 1, of, 1, Research, 1, -, 1, Protection, 1, Implementation, 1, On, 1]}
+FBEventsAgg{keyword='sagitar', city='Itabira', date='08/10/2016', totalAttending=24, topTen=[sagitário, 1, em, 1, Lua, 1, -, 1, o, 1, filme, 1]}
+FBEventsAgg{keyword='decorations', city='North Tidworth', date='07/10/2016', totalAttending=2, topTen=[Christmas, 1, and, 1, online, 1, decorations, 1, event, 1, gifts, 1]}
+FBEventsAgg{keyword='octavia', city='La Paz', date='08/10/2016', totalAttending=129, topTen=[VIE, 1, Daniels, 1, en, 1, vivo, 1, 150, 1, Jack, 1, -, 1, 07★, 1, Octavia★, 1, Aniversario, 1]}
+FBEventsAgg{keyword='way', city='unknown', date='08/10/2016', totalAttending=185, topTen=[NO, 1, Years, 1, 4, 1, Epic:, 1, of, 1, BACK, 1, Dirty, 1, WAY, 1, Selectors, 1, Edition, 1]}
+FBEventsAgg{keyword='ios', city='Brüggen', date='07/10/2016', totalAttending=60, topTen=[Amigos, 1, Party, 1, Gesamtschule, 1, Abi, 1, -, 1, Hardt, 1, ABIos, 1]}
+FBEventsAgg{keyword='5c', city='Perth', date='07/10/2016', totalAttending=523, topTen=[Dub, 1, Motion, 1, Years, 1, 5, 1, &, 1, Monarch, 1, of, 1, Titan, 1, ft, 1, A.M.C, 1]}
+FBEventsAgg{keyword='blue', city='Cerea', date='08/10/2016', totalAttending=782, topTen=[Made, 1, a, 1, c/o, 1, Area, 1, Cerea, 1, In, 1, (Verona), 1, 7°, 1, Italy, 1, Exp, 1]}
+FBEventsAgg{keyword='cell', city='Celle', date='08/10/2016', totalAttending=589, topTen=[Saisonabschluss, 1, in, 1, Celle, 1, Schraubertreff, 1, -, 1]}
+FBEventsAgg{keyword='vision', city='Sorocaba', date='08/10/2016', totalAttending=185, topTen=[Vision, 1, Underground, 1]}
+FBEventsAgg{keyword='atv', city='unknown', date='08/10/2016', totalAttending=55, topTen=[Tävling, 1, ATV, 1, MudSpeed, 1]}
+FBEventsAgg{keyword='rear', city='Macquarie Fields', date='08/10/2016', totalAttending=17, topTen=[Te, 1, Tira, 1, by, 1, Hosted, 1, Rearea, 1, Haka, 1, #TETRIVIA, 1, O, 1, Iti, 1]}
+FBEventsAgg{keyword='hand', city='Cape Town', date='08/10/2016', totalAttending=783, topTen=[The, 1, market, 1, Second, 1, Official, 1, Sept/October, 1, Greenpoint, 1, hand, 1]}
+FBEventsAgg{keyword='ios', city='Idar-Oberstein', date='07/10/2016', totalAttending=32, topTen=[finest, 1, I-O's, 1]}
+FBEventsAgg{keyword='alarm', city='Buenos Aires', date='08/10/2016', totalAttending=157, topTen=[-, 2, Party, 1, Alarm, 1, Amerikanbears, 1, 08.oct.2016, 1, Sabado, 1]}
+FBEventsAgg{keyword='great', city='Croton-on-Hudson', date='08/10/2016', totalAttending=784, topTen=[The, 1, Great, 1, 2016, 1, Blaze, 1, Jack, 1, O'Lantern, 1]}
+FBEventsAgg{keyword='h08', city='Bar-sur-Aube', date='08/10/2016', totalAttending=5, topTen=[à, 2, 10h00, 1, de, 1, 08, 1, Aube, 1, 18h00, 1, Ouverte, 1, sur, 1, Bar, 1, 2016, 1]}
+FBEventsAgg{keyword='free', city='unknown', date='08/10/2016', totalAttending=542, topTen=[(Free, 1, Juice), 1, Party, 1, Temple, 1, Jungle, 1, Madness, 1]}
+FBEventsAgg{keyword='diagonal', city='unknown', date='07/10/2016', totalAttending=119, topTen=[**Diagonales, 1, 2vs2**, 1, Free, 1]}
+FBEventsAgg{keyword='piezo', city='unknown', date='08/10/2016', totalAttending=2, topTen=[Chirurgia, 1, Ossea, 1, Piezoelettrica, 1, in, 1, Aggiornamenti, 1]}
+FBEventsAgg{keyword='remote', city='Port Saint Lucie', date='08/10/2016', totalAttending=15, topTen=[and, 2, Line, 1, with, 1, Wild, 1, Roses, 1, B94.7., 1, Dancing, 1, remote, 1, live, 1]}
+FBEventsAgg{keyword='remote', city='Hasselt', date='07/10/2016', totalAttending=23, topTen=[Versuz, 1, Remotec, 1, !, 1, at, 1, Like, 1, DJ, 1, DJ-, 1, -Girls, 1]}
+FBEventsAgg{keyword='input', city='Buenos Aires', date='08/10/2016', totalAttending=38, topTen=[Nico, 2, Rocca,, 1, Oliveto, 1, Input, 1, Vie, 1, at, 1, Sudakas, 1, Bug, 1, &, 1, Alonso, 1]}
+FBEventsAgg{keyword='s210', city='Warsaw', date='08/10/2016', totalAttending=5, topTen=[#4, 1, "Lekkie, 1, Infinity, 1, Warszawa, 1, Gentleman's, 1, Starcie", 1, 2.10, 1]}
+FBEventsAgg{keyword='back', city='Gaborone', date='08/10/2016', totalAttending=2444, topTen=[The, 1, 1st, 1, Annual, 1, "Bringing, 1, Spincity, 1, Back, 1, Legends", 1, Birthday, 1, Bash, 1, featuring, 1]}
+FBEventsAgg{keyword='heavy', city='unknown', date='08/10/2016', totalAttending=173, topTen=[HEAVY, 1, Campamento, 1, METAL, 1]}
+FBEventsAgg{keyword='watches', city='unknown', date='08/10/2016', totalAttending=15, topTen=[Watches, 1, 40%, 1, Premium, 1, Up, 1, To, 1, OFF, 1]}
+FBEventsAgg{keyword='led', city='Ulaanbaatur', date='07/10/2016', totalAttending=274, topTen=[, 4, Zeppelin, 1, Led, 1, from, 1, now/, 1, /40, 1, years, 1]}
+FBEventsAgg{keyword='arrivals', city='Boksburg', date='08/10/2016', totalAttending=7, topTen=[New, 1, Arrivals, 1, Model, 1]}
+FBEventsAgg{keyword='kudos', city='Mohali', date='08/10/2016', totalAttending=9, topTen=[Growth, 1, Discussion, 1, Open, 1, on, 1, Business, 1]}
+FBEventsAgg{keyword='d2', city='Prague', date='07/10/2016', totalAttending=303, topTen=[K&D), 1, at, 1, Dorfmeister, 1, Richard, 1, 2.patro, 1, (Tosca,, 1]}
+FBEventsAgg{keyword='cassette', city='Miami Beach', date='08/10/2016', totalAttending=51, topTen=[Cassette, 1, Pre, 1, Party, 1, Store, 1, KYI:, 1, Day, 1]}
+FBEventsAgg{keyword='heavy', city='Hamburg', date='07/10/2016', totalAttending=196, topTen=[HEAVY, 1, III, 1, Birthday, 1]}
+FBEventsAgg{keyword='player', city='Colombo', date='07/10/2016', totalAttending=393, topTen=[The, 1, the, 1, Bridge", 1, Production, 1, Of, 1, Players', 1, from, 1, Workshop, 1, View, 1, "A, 1]}
+FBEventsAgg{keyword='two', city='Austin', date='07/10/2016', totalAttending=13321, topTen=[Fest, 1, 2016, 1, ACL, 1, Two, 1, Weekend, 1]}
+FBEventsAgg{keyword='dual', city='Baltimore', date='08/10/2016', totalAttending=44, topTen=[Dr., 1, Duality:Male, 1, Oya, 1, and, 1, Understanding, 1, Female, 1, Relationsips, 1, Maat-, 1]}
+FBEventsAgg{keyword='octavia', city='La Plata', date='08/10/2016', totalAttending=36, topTen=[Sabores, 1, para, 1, Nuevos, 1, Pimienta, 1, en, 1, cocina, 1, OctaviaV, 1]}
+FBEventsAgg{keyword='index', city='Sibiu', date='07/10/2016', totalAttending=63, topTen=[-, 2, Faust,, 1, Sfera, 1, DJ, 1, 7, 1, Octombrie, 1, Bocaseca,, 1, SIBIU, 1, Egris,, 1]}
+FBEventsAgg{keyword='arduino', city='Ariana', date='08/10/2016', totalAttending=20, topTen=[CSF, 1, Certifiée, 1, organise, 1, une, 1, Formation, 1, Arduino, 1, [Arduino, 1, Projects], 1]}
+FBEventsAgg{keyword='angle', city='Edinburgh', date='07/10/2016', totalAttending=14, topTen=[Posable, 1, The, 1, Action, 1, Ouwungit, 1, Figures,, 1, Angles,, 1]}
+FBEventsAgg{keyword='paint', city='Buenos Aires', date='07/10/2016', totalAttending=1312, topTen=[Fest, 1, De, 1, //Candy, 1, Party//, 1, Fiesta, 1, Octubre//, 1, 7, 1, Fluo//BodyPainting, 1]}
+FBEventsAgg{keyword='board', city='Salto', date='08/10/2016', totalAttending=113, topTen=[ORGY, 1, @Pro, 1, Boards, 1, TRAP, 1, Festa, 1, -, 1]}
+FBEventsAgg{keyword='scrub', city='unknown', date='08/10/2016', totalAttending=39, topTen=[Annual, 1, Skills, 1, Day, 1, Scrubs, 1]}
+FBEventsAgg{keyword='3a', city='Córdoba', date='08/10/2016', totalAttending=2284, topTen=[Derecho, 1, a, 1, Mental, 1, por, 1, Salud, 1, la, 1, el, 1, 3era, 1, Marcha, 1]}
+FBEventsAgg{keyword='great', city='Denver', date='08/10/2016', totalAttending=536, topTen=[Great, 1, Space, 1, Escape, 1, (SOLD, 1, for, 1, Adults, 1, OUT), 1]}
+FBEventsAgg{keyword='lighter', city='Ormond Beach', date='08/10/2016', totalAttending=8, topTen=[Adventure, 1, Lighterknot, 1, Race, 1]}
+FBEventsAgg{keyword='accessories', city='unknown', date='08/10/2016', totalAttending=33, topTen=[Italian, 1, accessories, 1, Style, 1, Wo/Man, 1, event, 1]}
+FBEventsAgg{keyword='w5w', city='Reading', date='08/10/2016', totalAttending=484, topTen=[#5, 1, October, 1, 2016, 1, MistaJam, 1, w/, 1, 7th, 1, -, 1, DANCE, 1]}
+FBEventsAgg{keyword='ios', city='unknown', date='08/10/2016', totalAttending=31, topTen=[Dev, 1, Club, 1, 2016/10月份, 1, iOS, 1, 開發者聚會, 1]}
+FBEventsAgg{keyword='board', city='Paderborn', date='07/10/2016', totalAttending=165, topTen=[the, 1, Bo(a)rders, 1, Across, 1]}
+FBEventsAgg{keyword='1080p', city='unknown', date='08/10/2016', totalAttending=58, topTen=[1080, 7, Protest, 5, National, 5, -, 3, STOP, 1, Marches, 1, NZ, 1, Dunedin, 1, Ban, 1, WITH, 1]}
+FBEventsAgg{keyword='inverter', city='Catania', date='08/10/2016', totalAttending=1, topTen=[Inverter, 1, gratuita, 1, Dieta, 1, personalizzata, 1, e, 1, dimagrante, 1, metodo, 1]}
+FBEventsAgg{keyword='bm', city='Vila do Conde', date='07/10/2016', totalAttending=363, topTen=[II, 1, Encontro, 1, Ibérico, 1, BMW, 1, M, 1]}
+FBEventsAgg{keyword='batteries', city='unknown', date='08/10/2016', totalAttending=0, topTen=[the, 1, fact, 1, fiction, 1, Batteries:, 1, Grid, 1, Connect, 1, from, 1, Sorting, 1, out, 1]}
+FBEventsAgg{keyword='truck', city='Udine', date='07/10/2016', totalAttending=2230, topTen=[-, 2, Streeat®, 1, 7/8/9, 1, FoodTruckFestival, 1, ottobre, 1, Udine, 1]}
+FBEventsAgg{keyword='computer', city='New Delhi', date='08/10/2016', totalAttending=249, topTen=[Against, 1, (IT, 1, TechIT, 1, Education, 1, 1.6), 1, Race, 1, Gaming(cs, 1, Lan, 1, QUIZ), 1, Time, 1]}
+FBEventsAgg{keyword='tools', city='Farmington', date='08/10/2016', totalAttending=25, topTen=[Lancaster,, 1, westin, 1, toolson, 1, Chris, 1, and, 1, WEDDING!!!!!!!!!!!!!!, 1, Jensen,, 1, Jared, 1]}
+FBEventsAgg{keyword='kit', city='Neuss', date='07/10/2016', totalAttending=646, topTen=[#3, 1, Big, 1, Festival, 1, Neuss, 1, Kitchen, 1, Edition", 1, Street, 1, |, 1, -, 1, "Special, 1]}
+FBEventsAgg{keyword='arduino', city='Ankara', date='08/10/2016', totalAttending=13, topTen=[Sistem, 1, Tasarım, 1, Gömülü, 1, Eğitimi, 1, Arduino, 1, İle, 1]}
+FBEventsAgg{keyword='vision', city='Dublin', date='07/10/2016', totalAttending=989, topTen=[Christchurch, 1, Vision, 1, Collector, 1, Cathedral, 1, Crypt, 1]}
+FBEventsAgg{keyword='fashion', city='Labège', date='08/10/2016', totalAttending=503, topTen=[GIRLY, 1, FASHION, 1, DAY, 1]}
+FBEventsAgg{keyword='voltage', city='unknown', date='07/10/2016', totalAttending=14, topTen=[High, 1, Kigungu, 1, Voltage, 1, Operation, 1, Entebbe, 1]}
+FBEventsAgg{keyword='smart', city='Bacau', date='08/10/2016', totalAttending=59, topTen=["Leo, 1, Alpha, 1, Young&Smart, 1, Recrutari, 1, Bacau", 1]}
+FBEventsAgg{keyword='crown', city='Melbourne', date='08/10/2016', totalAttending=65, topTen=[-, 2, 808, 1, October, 1, Crown, 1, Night, 1, Mic, 1, BACK, 1, is, 1, 8th, 1, Melbourne, 1]}
+FBEventsAgg{keyword='version', city='Ville de Kenitra', date='08/10/2016', totalAttending=132, topTen=[ISO, 1, 14001, 1, 2015, 1, Formation, 1, version, 1]}
+FBEventsAgg{keyword='d2', city='unknown', date='08/10/2016', totalAttending=342, topTen=[2.do, 1, dOP, 1, Company), 1, W, 1, (Circus, 1, Groove, 1, Hunters, 1, Aniversario, 1, /, 1]}
+FBEventsAgg{keyword='10m', city='Námestovo', date='07/10/2016', totalAttending=160, topTen=[Imperia-m,, 1, 7.10.16, 1, Mairee,, 1]}
+FBEventsAgg{keyword='monitors', city='Tarragona', date='08/10/2016', totalAttending=0, topTen=[Curs:, 1, de, 1, educatiu, 1, d’activitats, 1, Monitors/es, 1, lleure, 1]}
+FBEventsAgg{keyword='paint', city='unknown', date='07/10/2016', totalAttending=113, topTen=[with, 1, car, 1, For, 1, Paint, 1, your, 1, "Hillary, 1, Day, 1, Prison", 1]}
+FBEventsAgg{keyword='silver', city='Petrópolis', date='08/10/2016', totalAttending=70, topTen=[Tribute, 2, I, 2, Be, 1, Nirvana, 1, Dj, 1, X, 1, Silverchair, 1, 07/10, 1]}
+FBEventsAgg{keyword='inch', city='Lurago d'Erba', date='07/10/2016', totalAttending=25, topTen=[Centrale, 1, Sporco@Caffè, 1, Night, 1, Club, 1, Hop, 1, Inchiostro, 1, Hip, 1]}
+FBEventsAgg{keyword='3a', city='Guarulhos', date='08/10/2016', totalAttending=584, topTen=[•, 3, ★, 2, TOTAL, 1, , 1, A, 1, Festa, 1, Edition, 1, Open, 1, Bar, 1, Sexta, 1]}
+FBEventsAgg{keyword='atv', city='Ulu Kelang', date='08/10/2016', totalAttending=53, topTen=[BBQ, 1, Party, 1, ATV, 1, &, 1, Lets, 1, -, 1]}
+FBEventsAgg{keyword='flash', city='Belo Horizonte', date='08/10/2016', totalAttending=277, topTen=[I, 6, Flash, 2, à, 1, Night, 1, DJ, 1, 22h, 1, Alberto, 1, ANOS, 1, Remember, 1, Granfinos, 1]}
+FBEventsAgg{keyword='smart', city='unknown', date='08/10/2016', totalAttending=123, topTen=[Брендинг/, 1, Самопрезентація, 1, SmartFest:, 1, Імідж/, 1]}
+FBEventsAgg{keyword='knowledge', city='Sylmar', date='07/10/2016', totalAttending=53, topTen=[Germinating, 1, The, 1, Xinachtli, 1, Seed, 1, of, 1, -, 1, Knowledge, 1]}
+FBEventsAgg{keyword='switch', city='Southampton', date='08/10/2016', totalAttending=69, topTen=[-, 2, party!, 1, at, 1, Switch, 1, £1.50, 1, light, 1, Traffic, 1, Tonight, 1, Drinks, 1, Juiced, 1]}
+FBEventsAgg{keyword='flash', city='Newark', date='08/10/2016', totalAttending=1, topTen=[10/7, 1, promo, 1, Flashback, 1, Ciroc, 1, at, 1, Catas, 1, Fridays, 1, Mango, 1, event, 1, -, 1]}
+FBEventsAgg{keyword='music', city='Rio de Janeiro', date='08/10/2016', totalAttending=16177, topTen=[the, 1, Festival, 1, Music, 1, Road, 1, Electro, 1, Ultra, 1, -, 1, on, 1]}
+FBEventsAgg{keyword='control', city='Bucharest', date='07/10/2016', totalAttending=810, topTen=[Maschine, 1, 6YRS, 1]}
+FBEventsAgg{keyword='audi', city='unknown', date='08/10/2016', totalAttending=3371, topTen=[Tipper, 1, 3, 1, at, 1, Auditorium,, 1, &, 1, Nights, 1, Fillmore, 1, Denver, 1, Friends,, 1]}
+FBEventsAgg{keyword='silver', city='Wayne', date='08/10/2016', totalAttending=1381, topTen=[-, 2, $100,000, 1, Cash, 1, Pro, 1, Prize, 1, Open, 1, Money, 1, Champions, 1, Series, 1, Championships, 1]}
+FBEventsAgg{keyword='blue', city='Milan', date='07/10/2016', totalAttending=2643, topTen=[e, 2, Castagnata, 1, Fest, 1, Rock, 1, Milano, 1, Blues, 1, Free, 1, Entry!, 1, Tarantelle, 1, Pizziche, 1]}
+FBEventsAgg{keyword='paint', city='Eugene', date='08/10/2016', totalAttending=1853, topTen=[OR, 1, In, 1, Color, 1, Eugene,, 1, Life, 1, #LICEugene, 1, -, 1]}
+FBEventsAgg{keyword='rear', city='New York', date='08/10/2016', totalAttending=6, topTen=[show!, 1, Cafe, 1, Stephanie, 1, Rearick, 1, Sidewalk, 1]}
+FBEventsAgg{keyword='12v', city='Berlin', date='08/10/2016', totalAttending=17, topTen=[eV, 2, 12, 1, des, 1, SV, 1, Wiesencup, 1, FSV, 1, Pankow, 1, und, 1, 96, 1, Strauchwiese, 1]}
+FBEventsAgg{keyword='tool', city='London', date='07/10/2016', totalAttending=50, topTen=[(Snatch!, 1, Brett, 1, Toolroom), 1, Gould, 1, Presents, 1, Records, 1, BYBL, 1, /, 1]}
+FBEventsAgg{keyword='rear', city='Valletta', date='07/10/2016', totalAttending=20, topTen=[Hitchcock's, 1, Film, 1, SPS, 1, 'Rear, 1, Nights, 1, -, 1, Window', 1]}
+FBEventsAgg{keyword='3a', city='Rio de Janeiro', date='08/10/2016', totalAttending=133, topTen=[Dream, 1, 3ª, 1, Edição, 1, -, 1, On, 1]}
+FBEventsAgg{keyword='tools', city='Phnom Penh', date='08/10/2016', totalAttending=65, topTen=[Tools, 1, for, 1, Practical, 1, M&E, 1]}
+FBEventsAgg{keyword='dual', city='Milan', date='07/10/2016', totalAttending=51, topTen=[Walter, 1, Il, 1, Cielo, 1, Satirecital, 1, Leonardi, 1, sotto, 1, Milano, 1, -, 1, riapre:, 1]}
+FBEventsAgg{keyword='two', city='Sint-Niklaas', date='07/10/2016', totalAttending=330, topTen=[Bangers:, 1, Round, 1, Standard, 1, Two, 1]}
+FBEventsAgg{keyword='atv', city='unknown', date='07/10/2016', totalAttending=23, topTen=[Kinas, 1, atviru, 1, dangumi, 1, iš, 1, automobilio, 1, po, 1]}
+FBEventsAgg{keyword='1080p', city='New Plymouth', date='08/10/2016', totalAttending=46, topTen=[1080, 1, New, 1, Protest, 1, National, 1, Plymouth, 1]}
+FBEventsAgg{keyword='heavy', city='Edmonton', date='08/10/2016', totalAttending=133, topTen=[|, 2, Heavy, 1, By:, 1, ENT., 1, Sound, 1, (Tier, 1, 1, 1, Sold, 1, RIOT, 1, PK, 1]}
+FBEventsAgg{keyword='alarm', city='Austin', date='08/10/2016', totalAttending=22, topTen=[-, 2, The, 1, Thriller, 1, U, 1, Ring, 1, Alarm, 1, Live, 1, Edition, 1]}
+FBEventsAgg{keyword='dual', city='Stuttgart', date='08/10/2016', totalAttending=12, topTen=[#12, 1, FunkSturm, 1, Dualmotorik, 1]}
+FBEventsAgg{keyword='vinyl', city='Ulaanbaatar', date='08/10/2016', totalAttending=242, topTen=[Party, 1, Dundgol, 1, №2, 1]}
+FBEventsAgg{keyword='warning', city='O'Fallon', date='08/10/2016', totalAttending=37, topTen=[FW30, 1]}
+FBEventsAgg{keyword='water', city='unknown', date='07/10/2016', totalAttending=2406, topTen=[Water, 1, into, 1, Winter, 1, 2016, 1, Cross, 1, &, 1, Race, 1, NH, 1, Grass, 1, Drags, 1]}
+FBEventsAgg{keyword='obd', city='Obdam', date='07/10/2016', totalAttending=3, topTen=[De, 1, OBDAM, 1, Veiling, 1]}
+FBEventsAgg{keyword='view', city='Colombo', date='07/10/2016', totalAttending=393, topTen=[The, 1, the, 1, Bridge", 1, Production, 1, Of, 1, Players', 1, from, 1, Workshop, 1, View, 1, "A, 1]}
+FBEventsAgg{keyword='accessori', city='unknown', date='08/10/2016', totalAttending=33, topTen=[Italian, 1, accessories, 1, Style, 1, Wo/Man, 1, event, 1]}
+FBEventsAgg{keyword='goggles', city='Chatham', date='08/10/2016', totalAttending=6, topTen=[Grille, 1, River, 1, Chatham, 1]}
+FBEventsAgg{keyword='rear', city='Dewey', date='08/10/2016', totalAttending=33, topTen=[Bville, 1, Soc., 1, Rear, 1, Window:, 1, Film, 1]}
+FBEventsAgg{keyword='board', city='unknown', date='07/10/2016', totalAttending=88, topTen=[Water, 1, op, 1, Techno, 1, het, 1]}
+FBEventsAgg{keyword='publicity', city='Tbilisi', date='07/10/2016', totalAttending=7, topTen=[ს, 1, Publicity.ge, 1, სემინარ-პრეზენტაცია, 1, -, 1]}
+FBEventsAgg{keyword='board', city='unknown', date='08/10/2016', totalAttending=108, topTen=[Techno, 1, Board, 1, Up, 1, Warm, 1, On, 1]}
+FBEventsAgg{keyword='ebat', city='unknown', date='07/10/2016', totalAttending=4, topTen=[Yerimiz, 1, EBAT, 1, Bilimdeki, 1, Ekibi, 1, -, 1]}
+FBEventsAgg{keyword='sun', city='Hyderabad', date='08/10/2016', totalAttending=5324, topTen=[with, 1, Vegas, 1, Mike, 1, Sunburn, 1, Like, 1, &, 1, Marshmello, 1, Dimitri, 1, -, 1, Arena, 1]}
+FBEventsAgg{keyword='heavy', city='Collingwood', date='08/10/2016', totalAttending=224, topTen=[PBS, 1, II, 1, Heavy, 1, Hammered, 1, &, 1, presents:, 1, 106.7FM, 1]}
+FBEventsAgg{keyword='inch', city='unknown', date='08/10/2016', totalAttending=85, topTen=[#4, 1, Inch, 1, Kremlin, 1, Klub, 1, presents, 1]}
+FBEventsAgg{keyword='lcd', city='London', date='08/10/2016', totalAttending=111, topTen=[RE:Imagine, 1, Homage, 1, To, 1, LCD, 1, -, 1, An, 1, Soundsystem, 1]}
+FBEventsAgg{keyword='monitor', city='Gothenburg', date='07/10/2016', totalAttending=52, topTen=[exhibition, 1, Mother, 1, katrine, 1, by, 1, hoff, 1, -, 1, an, 1]}
+FBEventsAgg{keyword='fashion', city='Bucharest', date='08/10/2016', totalAttending=2530, topTen=[-, 2, &, 1, Yumm, 1, Fashion, 1, Dichisar, 1, Fun,, 1, Edition, 1, Food, 1]}
+FBEventsAgg{keyword='tool', city='Phnom Penh', date='08/10/2016', totalAttending=65, topTen=[Tools, 1, for, 1, Practical, 1, M&E, 1]}
+FBEventsAgg{keyword='arduino', city='Treppo Grande', date='07/10/2016', totalAttending=1, topTen=[Corso, 1, Arduino, 1, Base, 1]}
+FBEventsAgg{keyword='smart', city='Chicago', date='08/10/2016', totalAttending=369, topTen=[Set, 1, at, 1, Bonobo, 1, Chicago, 1, DJ, 1, Smartbar,, 1, *SOLD, 1, OUT*, 1]}
+FBEventsAgg{keyword='h08', city='Paris', date='08/10/2016', totalAttending=15, topTen=[LAX, 1, au, 1, (20, 1, max), 1, 08/10, 1, Fit&Fun, 1, Studio, 1, personnes, 1, 11h-12h, 1]}
+FBEventsAgg{keyword='flash', city='São Paulo', date='07/10/2016', totalAttending=389, topTen=[Outubro, 1, Tattoo, 1, Flash, 1, Day, 1, -, 1, Rosa, 1]}
+FBEventsAgg{keyword='lights', city='unknown', date='07/10/2016', totalAttending=3131, topTen=[Festival, 1, 2016, 1, Lights, 1, of, 1]}
+FBEventsAgg{keyword='blankets', city='Brighton', date='07/10/2016', totalAttending=54, topTen=[The, 2, Brighton, 1, Blankets, 1, in, 1, Tuts, 1, Shit, 1, Daniel, 1, Versus, 1, 7th, 1, -, 1]}
+FBEventsAgg{keyword='atv', city='Riga', date='08/10/2016', totalAttending=84, topTen=[diena, 1, centrā, 1, Atvērto, 1, durvju, 1, Budisma, 1, Rīgas, 1]}
+FBEventsAgg{keyword='key', city='Pistoia', date='08/10/2016', totalAttending=47, topTen=[Ottobre, 1, Seminar, 1, KEYSI, 1, 2016, 1, &, 1, Pistoia, 1, 8, 1, 9, 1, -, 1, Open, 1]}
+FBEventsAgg{keyword='1080p', city='Montreal', date='07/10/2016', totalAttending=322, topTen=[1080p, 1, RBMA, 1, Montréal, 1, Haute, 1, :, 1, Résolution, 1, Une, 1, -, 1, Soirée, 1]}
+FBEventsAgg{keyword='avenue', city='Perth', date='08/10/2016', totalAttending=161, topTen=[Dream, 1, feat., 1, Red, 1, Jezebel,, 1, Avenues, 1, members, 1, of, 1, Siamese, 1, Eskimo, 1, Joe,, 1]}
+FBEventsAgg{keyword='bmw', city='Sopron', date='08/10/2016', totalAttending=64, topTen=[Oktober, 1, Mini, 1, Hungary, 1, West, 1, 8, 1, 2K16, 1, BMW, 1, meeting, 1, Sopron, 1]}
+FBEventsAgg{keyword='warning', city='Seattle', date='08/10/2016', totalAttending=281, topTen=[/, 2, Frankie, 1, iji, 1, Sundae, 1, Cosmos, 1, Crush, 1]}
+FBEventsAgg{keyword='bmw', city='unknown', date='07/10/2016', totalAttending=207, topTen=[Nachtlauf, 1, von, 1, Mönchengladbach, 1, und, 1, SportScheck, 1, BMW, 1]}
+FBEventsAgg{keyword='speed', city='Avondale', date='07/10/2016', totalAttending=481, topTen=[Speed, 2, NOLA, 2, Style, 2, RD2, 1, &, 1, Time, 1, Attack, 1, -, 1, Global, 1, 2016, 1]}
+FBEventsAgg{keyword='mitsubishi', city='unknown', date='08/10/2016', totalAttending=76, topTen=[Preto, 1, e, 1, 5ª, 1, Ribeirão, 1, (SP), 1, Mitsubishi, 1, Outdoor, 1, 11ª, 1, Motorsports, 1, -, 1]}
+FBEventsAgg{keyword='cam', city='Silverado', date='07/10/2016', totalAttending=6204, topTen=[Campout, 1, Dirtybird, 1, 2016, 1]}
+FBEventsAgg{keyword='exo', city='São Paulo', date='08/10/2016', totalAttending=250, topTen=[-, 2, #3, 1, 12, 1, de, 1, Party, 1, MEGA, 1, HORAS, 1, Floresta, 1, Magica, 1, FESTA, 1]}
+FBEventsAgg{keyword='lights', city='Nashville', date='08/10/2016', totalAttending=1895, topTen=[-, 2, Nashville,, 1, Lights, 1, Auditorium, 1, TN, 1, Pretty, 1, Municipal, 1]}
+FBEventsAgg{keyword='elec', city='Toluca', date='07/10/2016', totalAttending=1055, topTen=[◥◣, 2, 2, 1, Oficial, 1, Electronic, 1, Band, 1]}
+FBEventsAgg{keyword='gravity', city='Denver', date='08/10/2016', totalAttending=378, topTen=[ft., 1, Tyrannosaurus,, 1, Grillz, 1, Fridays, 1, !Tyro, 1, Bear, 1, +, 1, Midnight, 1, Gravity, 1]}
+FBEventsAgg{keyword='usb', city='unknown', date='08/10/2016', totalAttending=5, topTen=[Usborne, 1, Book, 1, Extravaganza, 1]}
+FBEventsAgg{keyword='passat', city='Bracigliano', date='07/10/2016', totalAttending=23, topTen=[Ritorno, 1, mai, 1, la, 1, tradizione, 1, al, 1, non, 1, muore, 1, passato,, 1]}
+FBEventsAgg{keyword='hu', city='Belo Horizonte', date='08/10/2016', totalAttending=2498, topTen=[City, 2, -, 2, Hungria, 1, e, 1, &, 1, Nandinho, 1, Bam, 1, 2, 1, Na, 1, Nego, 1]}
+FBEventsAgg{keyword='crown', city='Miraflores', date='08/10/2016', totalAttending=95, topTen=[/, 2, Crownless, 1, HellCross, 1, ContraCara, 1, el, 1, en, 1, Pub, 1, Irish, 1]}
+FBEventsAgg{keyword='mount', city='Mount Vernon', date='07/10/2016', totalAttending=2912, topTen=[Apple, 1, Makin', 1, 50th, 1, Butter, 1, Days, 1]}
+FBEventsAgg{keyword='audi', city='Nashville', date='08/10/2016', totalAttending=1895, topTen=[-, 2, Nashville,, 1, Lights, 1, Auditorium, 1, TN, 1, Pretty, 1, Municipal, 1]}
+FBEventsAgg{keyword='cassette', city='unknown', date='08/10/2016', totalAttending=424, topTen=[Space, 1, Cassette, 1]}
+FBEventsAgg{keyword='alarm', city='Vienna', date='07/10/2016', totalAttending=95, topTen=[Wien, 1, Notgemeinschaft, 1, at, 1, Pan,, 1, Peter, 1, Arena, 1, Alarmsignal,, 1, Missstand, 1]}
+FBEventsAgg{keyword='bmw', city='Vila do Conde', date='07/10/2016', totalAttending=363, topTen=[II, 1, Encontro, 1, Ibérico, 1, BMW, 1, M, 1]}
+FBEventsAgg{keyword='obd', city='unknown', date='07/10/2016', totalAttending=2, topTen=[Essbares, 1, Einfach, 1, Obdach, 1, Spaziergang:, 1]}
+FBEventsAgg{keyword='audio', city='Bedford', date='08/10/2016', totalAttending=745, topTen=[|, 5, Motion, 1, Killaz, 1, Return, 1, Marky, 1, &, 1, Hybrid, 1, Minds, 1, More, 1, Bedford', 1]}
+FBEventsAgg{keyword='interior', city='unknown', date='08/10/2016', totalAttending=110, topTen=[De, 1, Cura, 1, Retiro, 1, Interior, 1]}
+FBEventsAgg{keyword='current', city='Augsburg', date='08/10/2016', totalAttending=33, topTen=[pres., 1, Die, 1, (Why, 1, Haffner, 1, Rakete), 1, Under, 1, Serios,, 1, So, 1, Current, 1, Julian, 1]}
+FBEventsAgg{keyword='definition', city='London', date='07/10/2016', totalAttending=137, topTen=[We, 2, Party, 1, Love, 1, Definition, 1, Live, 1, :, 1, East., 1, East, 1, -, 1, Free, 1]}
+FBEventsAgg{keyword='silver', city='Spała', date='08/10/2016', totalAttending=285, topTen=[DOM, 1, STAŁY!!!Huraaa!!!!!, 1, MA, 1, -Spała, 1, SILVER, 1]}
+FBEventsAgg{keyword='cell', city='Chambersburg', date='08/10/2016', totalAttending=174, topTen=[The, 1, the, 1, Empty, 1, 2016, 1, of, 1, Mystery, 1, Murder, 1, -, 1, Cell, 1, Case, 1]}
+FBEventsAgg{keyword='audio', city='Cerdanyola del Vallès', date='08/10/2016', totalAttending=241, topTen=[FEAR, 1, Festival, 1, (Future, 1, Electronic, 1, Research), 1, Audio, 1]}
+FBEventsAgg{keyword='avenue', city='Bremen', date='08/10/2016', totalAttending=471, topTen=[, 4, |, 2, All, 1, Gold, 1, Everything, 1, Avenue, 1, A.G.E, 1, 07.10, 1, -, 1]}
+FBEventsAgg{keyword='battery', city='Geelong', date='08/10/2016', totalAttending=45, topTen=[&, 2, Battery,, 1, Vendetta, 1, Ace, 1, Prophetess., 1, of, 1, Spades,, 1, Assault, 1]}
+FBEventsAgg{keyword='hand', city='Nové Zámky', date='07/10/2016', totalAttending=107, topTen=[7.10.2016, 1, Handbreak***, 1]}
+FBEventsAgg{keyword='tracking', city='Glen Burnie', date='08/10/2016', totalAttending=23, topTen=[Tracking, 1, Inspired, 1, Ghost, 1, Bill, 1, comes, 1, to, 1, hartley, 1]}
+FBEventsAgg{keyword='lens', city='Guarapari', date='08/10/2016', totalAttending=61, topTen=[na, 1, Magical, 1, Lens, 1, My, 1, Glowing, 1, ADEGA, 1]}
+FBEventsAgg{keyword='d2', city='Rimini', date='07/10/2016', totalAttending=91, topTen=[D'Avena-, 1, Seventies, 1, Bowling, 1, Guest, 1, Special, 1, CartooNight^2, 1, Cristina, 1]}
+FBEventsAgg{keyword='great', city='Liège', date='07/10/2016', totalAttending=438, topTen=[The, 1, Great, 1, Gatsby, 1, Popcorn, 1, ●, 1]}
+FBEventsAgg{keyword='ds', city='Midrand', date='08/10/2016', totalAttending=3233, topTen=[DStv, 1, &, 1, Music, 1, presented, 1, by, 1, Nedbank, 1, Festival,, 1, Delicious, 1, International, 1, Food, 1]}
+FBEventsAgg{keyword='exhaust', city='Chicago', date='08/10/2016', totalAttending=122, topTen=[Exuberance, 1, Exhaustion, 1, and, 1]}
+FBEventsAgg{keyword='heavy', city='Montreal', date='08/10/2016', totalAttending=494, topTen=[//, 1, Montréal, 1, Reporté-Postponed**, 1, Alestorm, 1]}
+FBEventsAgg{keyword='reverse', city='Cape Town', date='07/10/2016', totalAttending=101, topTen=[The, 1, the, 1, Return, 1, Sands', 1, Show, 1, 'Reverse, 1]}
+FBEventsAgg{keyword='protection', city='Brunswick', date='08/10/2016', totalAttending=17, topTen=[Self-Protection, 1, Course, 1]}
+FBEventsAgg{keyword='20pin', city='Lai Chi Kok', date='08/10/2016', totalAttending=4, topTen=[1920, 1, ☆【pink, 1, 十月·巿集】, 1, elephant, 1]}
+FBEventsAgg{keyword='d2', city='Vienna', date='08/10/2016', totalAttending=469, topTen=[-, 2, 2, 1, Breaking, 1, M.O.D, 1, Round, 1, Pratersauna, 1]}
+FBEventsAgg{keyword='d2', city='Lima', date='08/10/2016', totalAttending=268, topTen=[2d, 1, Marcahuasi, 1, -, 1, 1n, 1, /, 1]}
+FBEventsAgg{keyword='1080p', city='Auckland', date='08/10/2016', totalAttending=4, topTen=[1080, 1, Protest, 1]}
+FBEventsAgg{keyword='driving', city='Køge', date='07/10/2016', totalAttending=67, topTen=[Dead, 1, på, 1, support:, 1, Old, 1, Driving, 1, Man, 1, +, 1, Pints, 1, -, 1, Tapperiet, 1]}
+FBEventsAgg{keyword='ds', city='Yuen Long', date='07/10/2016', totalAttending=4, topTen=[Maths, 1, Dse2m0401, 1, 1/4, 1, I, 1, S.5, 1, -, 1, Clsmss, 1]}
+FBEventsAgg{keyword='high', city='Panama City Beach', date='08/10/2016', totalAttending=1066, topTen=[the, 1, High, 1, Fest, 1, Seas, 1, of, 1, Pirates, 1]}
+FBEventsAgg{keyword='key', city='Akron', date='08/10/2016', totalAttending=44, topTen=[&, 2, the, 1, Letters, 1, Klemm, 1, w/, 1, Jeff, 1, Corridors, 1, I, 1, Fight, 1, *Keys, 1]}
+FBEventsAgg{keyword='quad', city='Sainte-Radegonde', date='08/10/2016', totalAttending=538, topTen=[Quad, 1, Gueugnon, 1, 2016, 1, Cross, 1, officiel, 1, Side-Card, 1, Nations, 1, -, 1, et, 1]}
+FBEventsAgg{keyword='cable', city='Toluca', date='08/10/2016', totalAttending=14, topTen=[de, 1, cableado, 1, estructurado., 1, Soluciones, 1]}
