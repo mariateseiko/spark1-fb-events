@@ -70,13 +70,16 @@ public class FbSparkApp {
                     return rows.iterator();
                 }, Encoders.bean(DateCityKeyword.class));
 
+        dateCityKeywordDataset.cache();
+
         Dataset<Row> uniqueKeywordsByCityDate = dateCityKeywordDataset
                 .groupBy("date", "cityName")
                 .agg(collect_set("keyword").alias("keywords"));
-
         uniqueKeywordsByCityDate.coalesce(1).toJavaRDD().saveAsTextFile(keywordsOutputPath);
 
         Dataset<String> uniqueTags = dateCityKeywordDataset.map((MapFunction<DateCityKeyword, String>) DateCityKeyword::getKeyword, Encoders.STRING()).distinct();
+
+        dateCityKeywordDataset.unpersist();
 
         Dataset<FBEvent> fbEvents = uniqueTags.mapPartitions((MapPartitionsFunction<String, FBEvent>) iterator -> {
             List<FBEvent> fb = new ArrayList<>();
@@ -99,7 +102,7 @@ public class FbSparkApp {
                     });
             });
             return fb.iterator();
-        }, Encoders.bean(FBEvent.class)).limit(5);
+        }, Encoders.bean(FBEvent.class)).cache();
 
         Dataset<FBEventsAgg> aggregatedEvents = fbEvents.withColumn("description", split(col("description"), " "))
                 .groupBy("date", "keyword", "city")
@@ -158,6 +161,8 @@ public class FbSparkApp {
                     }
                     return keywordsEvents.iterator();
                 }, Encoders.bean(Attendee.class));
+
+        fbEvents.unpersist();
 
         JavaRDD<Attendee> attendeeJavaRDD = attendeeDataset.toJavaRDD()
                 .mapToPair(x -> new Tuple2<>(x.getName(), 1))
