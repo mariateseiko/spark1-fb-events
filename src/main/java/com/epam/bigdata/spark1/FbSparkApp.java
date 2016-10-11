@@ -79,8 +79,6 @@ public class FbSparkApp {
 
         Dataset<String> uniqueTags = dateCityKeywordDataset.map((MapFunction<DateCityKeyword, String>) DateCityKeyword::getKeyword, Encoders.STRING()).distinct();
 
-        dateCityKeywordDataset.unpersist();
-
         Dataset<FBEvent> fbEvents = uniqueTags.mapPartitions((MapPartitionsFunction<String, FBEvent>) iterator -> {
             List<FBEvent> fb = new ArrayList<>();
             DefaultFacebookClient facebookClient = new DefaultFacebookClient(token, Version.LATEST);
@@ -161,8 +159,6 @@ public class FbSparkApp {
                     }
                     return keywordsEvents.iterator();
                 }, Encoders.bean(Attendee.class));
-
-        fbEvents.unpersist();
 
         JavaRDD<Attendee> attendeeJavaRDD = attendeeDataset.toJavaRDD()
                 .mapToPair(x -> new Tuple2<>(x.getName(), 1))
